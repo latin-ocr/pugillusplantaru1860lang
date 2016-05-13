@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pugillusplantaru1860lang_0175.png"; bbox 0 0 1919 3199; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 44 862 1541 964">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 44 862 1541 964">
+     <span class='ocr_line' id='line_1_1' title="bbox 44 862 1541 964; baseline 0.01 -28"><span class='ocrx_word' id='word_1_1' title='bbox 44 862 326 954; x_wconf 74' lang='lat' dir='ltr'>Puginus</span> <span class='ocrx_word' id='word_1_2' title='bbox 367 865 706 958; x_wconf 80' lang='lat' dir='ltr'>plantarum</span> <span class='ocrx_word' id='word_1_3' title='bbox 746 866 1037 961; x_wconf 80' lang='lat' dir='ltr'>imprimis</span> <span class='ocrx_word' id='word_1_4' title='bbox 1074 870 1541 964; x_wconf 74' lang='lat' dir='ltr'>hispanicarum,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 389 1185 1197 1251">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 389 1185 1197 1251">
+     <span class='ocr_line' id='line_1_2' title="bbox 389 1185 1197 1251; baseline 0.011 -24"><span class='ocrx_word' id='word_1_5' title='bbox 389 1197 498 1242; x_wconf 76' lang='lat' dir='ltr'>quas</span> <span class='ocrx_word' id='word_1_6' title='bbox 530 1185 573 1229; x_wconf 87' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 606 1186 765 1232; x_wconf 74' lang='lat' dir='ltr'>itinere</span> <span class='ocrx_word' id='word_1_8' title='bbox 802 1189 1058 1251; x_wconf 58' lang='lat'>1851—752</span> <span class='ocrx_word' id='word_1_9' title='bbox 1091 1191 1197 1250; x_wconf 78' lang='lat' dir='ltr'>legit</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 609 1430 955 1500">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 609 1430 955 1500">
+     <span class='ocr_line' id='line_1_3' title="bbox 609 1430 955 1500; baseline 0.014 -21"><span class='ocrx_word' id='word_1_10' title='bbox 609 1430 728 1481; x_wconf 82' lang='lat' dir='ltr'><strong>Joh.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 772 1431 955 1500; x_wconf 78' lang='lat' dir='ltr'><strong>Lange.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 732 1768 831 1833">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 732 1768 831 1833">
+     <span class='ocr_line' id='line_1_4' title="bbox 732 1768 831 1833; baseline -0.01 0"><span class='ocrx_word' id='word_1_12' title='bbox 732 1768 831 1833; x_wconf 88' lang='grc' dir='ltr'><strong>ΙΙΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 593 2719 924 2772">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 593 2719 924 2772">
+     <span class='ocr_line' id='line_1_5' title="bbox 593 2719 924 2772; baseline 0.021 -7"><span class='ocrx_word' id='word_1_13' title='bbox 593 2719 777 2769; x_wconf 79' lang='lat' dir='ltr'>Hafniae</span> <span class='ocrx_word' id='word_1_14' title='bbox 808 2723 924 2772; x_wconf 80' lang='lat'><strong>1860.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

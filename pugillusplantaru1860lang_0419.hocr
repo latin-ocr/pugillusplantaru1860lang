@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pugillusplantaru1860lang_0419.png"; bbox 0 0 1975 3199; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1867 3043">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1867 3043">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1867 3043; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 1867 3043; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 61 3052 1837 3092">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 61 3052 1837 3092">
+     <span class='ocr_line' id='line_1_2' title="bbox 61 3052 1837 3092; baseline -0.001 -17"><span class='ocrx_word' id='word_1_2' title='bbox 61 3086 63 3089; x_wconf 32' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 103 3058 118 3070; x_wconf 72' lang='lat' dir='ltr'><strong><em>V</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 309 3059 336 3075; x_wconf 79' lang='grc'><em>1.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 348 3062 406 3086; x_wconf 63' lang='lat' dir='ltr'><em>“&#39;ffl&#39;</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 418 3052 599 3085; x_wconf 56' lang='lat' dir='ltr'><em>Astron-aqam«</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 615 3054 756 3085; x_wconf 43' lang='lat' dir='ltr'><em>mo&#39;zortI-qc</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 768 3058 835 3084; x_wconf 61' lang='lat' dir='ltr'><em>„ir-J).</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 841 3053 1002 3085; x_wconf 66' lang='lat' dir='ltr'><em>Parorqsdeia</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1029 3052 1224 3083; x_wconf 48' lang='lat' dir='ltr'><em>bremblismlaia</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1248 3053 1307 3083; x_wconf 50' lang='grc' dir='ltr'><em>[με.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1558 3068 1591 3085; x_wconf 70' lang='lat' dir='ltr'><em>mr</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1602 3068 1698 3086; x_wconf 57' lang='lat' dir='ltr'><em>Thur-mm</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1712 3068 1750 3087; x_wconf 48' lang='lat' dir='ltr'><em>&#39;ld</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1758 3069 1837 3092; x_wconf 38' lang='lat' dir='ltr'><em>“mlh</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
